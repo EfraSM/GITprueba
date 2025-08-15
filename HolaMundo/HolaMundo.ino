@@ -5,4 +5,6 @@ void setup() {
 
 void loop() {
   Serial.print("hola mundo");
+  delay(500);
+  Serial.print("hola mundo 2");
 }
